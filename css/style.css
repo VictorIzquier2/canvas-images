@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+#marco {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.frame {
+  margin: 1rem;
+  border: 1px solid grey;
+}
